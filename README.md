@@ -1,7 +1,7 @@
 # KURULUM
 Aşağıdaki kodu uçbirime kopyalayıp, enter tuşuna basın.
 
-wget O- https://raw.githubusercontent.com/yahyayildirim/telegram/main/telegram-kur.sh || chmod +x telegram-kur.sh && ./telegram-kur.sh
+wget -nc O- https://raw.githubusercontent.com/yahyayildirim/telegram/main/telegram-kur.sh || chmod +x telegram-kur.sh && ./telegram-kur.sh
 
 
 
